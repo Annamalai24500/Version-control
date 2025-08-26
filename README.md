@@ -105,12 +105,12 @@ secret_key=your_secret_key
 
 Backend:
 
-cd server
-npm run dev
+`cd server`
+`npm run dev`
 
 Frontend:
 
-cd client && npm run dev
+`cd client` && `npm run dev`
 
 ---
 
@@ -129,7 +129,7 @@ This project was built to strengthen understanding of:
 
 * 🔍 Search and filter repositories
 * 👥 More granular role-based access
-
+* 🛠️ Fixing minor bugs and improving stability
 ---
 
 ## 👨‍💻 Author
